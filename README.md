@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Fortune Ogulewe**]([https://gazijarin.com](https://fortune-sepia.vercel.app/), a software engineer from  Canada.
+I'm [**Fortune Ogulewe**](https://fortune-sepia.vercel.app/), a software engineer from  Canada.
 
 I'm primarily interested in **full-stack development** Aand Robotics,Ai,Machine leanring  
 
